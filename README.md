@@ -10,8 +10,13 @@ To use this python tool you will need to download the files in this repository a
 This repository has the following files:
 
 [Python Code](CIVE202_Spring2026_Group1_Project4_Code.ipynb)
+
 [Gantt Chart](CIVE202_Spring2026_P4G1_Project4_GanttChart.xlsx)
+
 [Scope of Work]()
+
 [Annotated Code Document](Project_4_Annotated_Code_Document.docx)
+
 [Summary Report](NRI_Paper_Final.docx)
+
 [Time Sheet](CIVE202_Spring2026_P4G1_Project4_TimeSheet.xlsx)
