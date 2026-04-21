@@ -13,7 +13,7 @@ This repository has the following files:
 
 [Gantt Chart](CIVE202_Spring2026_P4G1_Project4_GanttChart.xlsx)
 
-[Scope of Work]()
+[Scope of Work](Scope_of_work.pdf)
 
 [Annotated Code Document](Project_4_Annotated_Code_Document.docx)
 
